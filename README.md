@@ -1,2 +1,2 @@
-# pysec
-all about Python and security 
+# PenPy
+all about Python and Penetration testing 🐍🔐
