@@ -1,1 +1,2 @@
-www.example.de
+www.example.com
+www.website.com
